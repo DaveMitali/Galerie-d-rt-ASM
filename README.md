@@ -1,4 +1,7 @@
 # Galerie dárt ASM
+
+_With Ankit Desai and Soham Chitalia_
+
 It is a self-contained product cum platform that
 offers several options and functionalities to patrons and artists for
 displaying art, reviewing it and bidding for it.
